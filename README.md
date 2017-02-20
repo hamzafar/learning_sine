@@ -11,3 +11,6 @@ then select best model.
 http://gerardnico.com/wiki/data_mining/overfitting
 
 http://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-overfitting.html
+
+
+also when model is overfitting, use norms to reduce parameters.
