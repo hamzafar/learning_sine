@@ -1,3 +1,5 @@
+Generate data polynomial for sine curve
+
 # model_overfitting
 
 start with simple model to complex draw training and validation eroor to visulaize model complexity.
