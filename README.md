@@ -1,3 +1,6 @@
+learning sine curve through dummy data, contains same range as the sine curve have through deep learning.
+
+
 Generate data polynomial for sine curve
 
 # model_overfitting
