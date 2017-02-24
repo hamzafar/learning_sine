@@ -1,5 +1,6 @@
 learning sine curve through dummy data, contains same range as the sine curve have through deep learning.
 
+Also include Essemble model to learn model on chunks of data.
 
 Generate data polynomial for sine curve
 
