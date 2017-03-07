@@ -20,3 +20,7 @@ http://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-
 
 
 also when model is overfitting, use norms to reduce parameters.
+
+
+This is github guide for ensemble model
+https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/ensembles-stacking
